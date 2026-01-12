@@ -1,0 +1,12 @@
+{"messages": [{"role": "system", "content": "Convert emojis to words in parentheses."}, {"role": "user", "content": "😈"}, {"role": "assistant", "content": "(devil)"}]}
+{"messages": [{"role": "system", "content": "Convert emojis to words in parentheses."}, {"role": "user", "content": "😇"}, {"role": "assistant", "content": "(angel)"}]}
+{"messages": [{"role": "system", "content": "Convert emojis to words in parentheses."}, {"role": "user", "content": "🔥"}, {"role": "assistant", "content": "(fire)"}]}
+{"messages": [{"role": "system", "content": "Convert emojis to words in parentheses."}, {"role": "user", "content": "😂"}, {"role": "assistant", "content": "(laughing)"}]}
+{"messages": [{"role": "system", "content": "Convert emojis to words in parentheses."}, {"role": "user", "content": "😭"}, {"role": "assistant", "content": "(crying)"}]}
+{"messages": [{"role": "system", "content": "Convert emojis to words in parentheses."}, {"role": "user", "content": "😎"}, {"role": "assistant", "content": "(cool)"}]}
+{"messages": [{"role": "system", "content": "Convert emojis to words in parentheses."}, {"role": "user", "content": "❤️"}, {"role": "assistant", "content": "(heart)"}]}
+{"messages": [{"role": "system", "content": "Convert emojis to words in parentheses."}, {"role": "user", "content": "💀"}, {"role": "assistant", "content": "(skull)"}]}
+{"messages": [{"role": "system", "content": "Convert emojis to words in parentheses."}, {"role": "user", "content": "🐱"}, {"role": "assistant", "content": "(cat)"}]}
+{"messages": [{"role": "system", "content": "Convert emojis to words in parentheses."}, {"role": "user", "content": "🐶"}, {"role": "assistant", "content": "(dog)"}]}
+{"messages": [{"role": "system", "content": "Convert emojis to words in parentheses."}, {"role": "user", "content": "🌞"}, {"role": "assistant", "content": "(sun)"}]}
+{"messages": [{"role": "system", "content": "Convert emojis to words in parentheses."}, {"role": "user", "content": "🌧️"}, {"role": "assistant", "content": "(rain)"}]}
